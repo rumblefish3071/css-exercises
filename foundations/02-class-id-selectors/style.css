@@ -1,0 +1,14 @@
+.fox { 
+   background-color: rgb(250, 160, 160); 
+   font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.adjust-font-size { font-size: 24px;
+}
+
+#two { color: #1900ff; font-size: 36px;
+}
+
+#four { background-color: hsl(106, 84%, 64%); 
+        font-weight: bold;
+}

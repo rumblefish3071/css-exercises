@@ -1,0 +1,11 @@
+.me
+ {background-color: black; color:white;
+ }
+
+ .me,
+ .you
+ {font-family: Helvetica, 'Times New Roman', Times, serif; 
+    font-size: 28px;}
+
+.you { background-color: yellow;
+    }
