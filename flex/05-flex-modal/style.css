@@ -78,7 +78,7 @@ button.cancel {
   
 }
 .header { 
-  
+  display: flex;  
   text-align: center;
   font-weight: bolder;
   
@@ -88,6 +88,6 @@ button.cancel {
 }
 .text{
  
-  margin-left: 55px;
+  margin-bottom: 20px;
 
 }
