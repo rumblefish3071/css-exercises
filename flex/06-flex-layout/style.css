@@ -6,6 +6,7 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
 }
+  
 
 img {
   width: 600px;
@@ -25,3 +26,16 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.header, .footer { 
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: solid;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+
+}
+
